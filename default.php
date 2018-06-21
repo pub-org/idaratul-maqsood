@@ -1,0 +1,1 @@
+hedaer('index.php');
